@@ -1,0 +1,7 @@
+{
+	"host":"http://35.164.32.83",
+	"S3AccessKey":"AKIAJIQB5SCGC2YDE6QA",
+	"S3Secret":"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",
+	"S3BucketKey":"yaduphotogrid",
+	"dbURL":"mongodb://photogrid:myphotogrid@ds129038.mlab.com:29038/yaduphotogrid"
+}
